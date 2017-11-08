@@ -1,4 +1,6 @@
-# Github notes
-### personal notes during daily codings
+# Github Notes
+## Mostley Miscellaneous
+### Personal Notes of Daily Codes
+
 
 
